@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ravel/static/css/main.817233b6.css",
+    "main.js": "/ravel/static/js/main.ce3c13b8.js",
+    "static/media/mara.jpg": "/ravel/static/media/mara.2239f286cfc817d43583.jpg",
+    "static/media/elephants.jpg": "/ravel/static/media/elephants.5dd247d1170fac59180e.jpg",
+    "static/media/hells.jpg": "/ravel/static/media/hells.6fe12bba0205cafb5dea.jpg",
+    "static/media/giraffe.jpg": "/ravel/static/media/giraffe.ef7a54d059de7785619a.jpg",
+    "static/media/beach.jpg": "/ravel/static/media/beach.a2e8d6536bcab9f60fec.jpg",
+    "static/media/zebra.jpg": "/ravel/static/media/zebra.b2290373394547a1480e.jpg",
+    "static/media/img.jpg": "/ravel/static/media/img.837f4257682043529bb6.jpg",
+    "static/media/video.mp4": "/ravel/static/media/video.dc5b5daa7bc579da9aca.mp4",
+    "index.html": "/ravel/index.html",
+    "main.817233b6.css.map": "/ravel/static/css/main.817233b6.css.map",
+    "main.ce3c13b8.js.map": "/ravel/static/js/main.ce3c13b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.817233b6.css",
+    "static/js/main.ce3c13b8.js"
+  ]
+}
